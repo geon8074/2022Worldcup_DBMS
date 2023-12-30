@@ -3,6 +3,6 @@
 
 **Code**: SQL코드모음
 
-**Report**: 산업정보관리론_24조.pdf
+**Report**: 산업정보관리론_29조_최종.pdf
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
